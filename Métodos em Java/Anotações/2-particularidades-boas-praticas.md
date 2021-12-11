@@ -14,6 +14,15 @@
 	alterarUsuario(usuario);
 	```
 
+### Construtor e Destrutor
+
+- Métodos especiais, utilizados em Orientação a Objetos;
+
+### Mensagem
+
+- É o ato de solicitar ao método que o mesmo execute;
+- Pode ser direcionado a um objeto ou uma classe.
+
 ### Passagem:
 
 - Por valor (cópia);
